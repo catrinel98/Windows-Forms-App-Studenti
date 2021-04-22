@@ -1,0 +1,14 @@
+C:\Users\Catrinel\source\repos\tests1\tests1\bin\Debug\tests1.exe.config
+C:\Users\Catrinel\source\repos\tests1\tests1\bin\Debug\tests1.exe
+C:\Users\Catrinel\source\repos\tests1\tests1\bin\Debug\tests1.pdb
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.csprojAssemblyReference.cache
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.Form1.resources
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.Properties.Resources.resources
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.csproj.GenerateResource.cache
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.csproj.CoreCompileInputs.cache
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.exe
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.pdb
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.Form2.resources
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.Form3.resources
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.Form4.resources
+C:\Users\Catrinel\source\repos\tests1\tests1\obj\Debug\tests1.Form5.resources
